@@ -1,0 +1,39 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Model files (too large for GitHub — kept in Google Drive)
+*.pt
+*.pth
+*.ckpt
+
+# Video files (too large for GitHub — kept in Google Drive)
+*.mov
+*.mp4
+*.avi
+*.mkv
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment files
+.env
+venv/
+env/
+*.egg-info/
