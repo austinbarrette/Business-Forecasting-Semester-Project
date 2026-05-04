@@ -23,7 +23,7 @@ This project trains a Faster R-CNN object detection model to identify baseballs 
 | Recall | 0.84 |
 | F1 Score | 0.83 |
 
-For full methodology, results discussion, and limitations, see the [Executive Summary]([Executive_Summary_Final.docx](https://docs.google.com/document/d/1znYlwh4ad9WTMb12RwQMQ0FMTRQX_lHa/edit?usp=sharing&ouid=102598975878922416493&rtpof=true&sd=true)).
+For full methodology, results discussion, and limitations, see the [Executive Summary]((https://docs.google.com/document/d/1znYlwh4ad9WTMb12RwQMQ0FMTRQX_lHa/edit?usp=sharing&ouid=102598975878922416493&rtpof=true&sd=true)).
 
 ---
 
