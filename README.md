@@ -1,6 +1,4 @@
-## Business Forecasting Semester Project
-
-## Detecting Baseballs in Training Videos
+## Business Forecasting Semester Project - Detecting Baseballs in Training Videos
 ### An Object Detection Approach Using Faster R-CNN
 
 **Authors:** Austin Barrette and Aman Jayswal
