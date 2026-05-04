@@ -1,0 +1,23 @@
+# Econ 8310 Semester Project Python Dependencies
+# Tested on Google Colab (Python 3.11) with T4 GPU runtime
+# All listed versions are what Colab provides as of May 2026.
+# Most packages are pre-installed on Colab
+# torchmetrics is installed
+# inline by the notebook via pip
+ 
+# Core deep learning stack
+torch>=2.0.0
+torchvision>=0.15.0
+torchmetrics>=1.0.0
+ 
+# Computer vision and data handling
+opencv-python>=4.8.0
+numpy>=1.24.0
+ 
+# Visualization
+matplotlib>=3.7.0
+ 
+# XML parsing (Python standard library)
+# xml.etree.ElementTree
+# os
+# json
